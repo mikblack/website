@@ -1,48 +1,66 @@
 ---
 layout: post
-authors: ["Tom Kelly", "Mik Black", "Aleksandra Pawlik]
-title: "Software Carpentry Attendance: a New Zealand perspective"
-date: 2016-07-04
+authors: ["Tom Kelly", "Mik Black", "Sung Bae", "Wolfgang Hayek", "Aleksandra Pawlik"]
+title: "Software Carpentry workshop attendance: a New Zealand perspective"
+date: 2016-07-20
 time: "00:00:01"
 category: ["Attendance"]
 ---
 
-By Tom Kelly, PhD Candidate in Genetics (University of Otago). Thoughts my own and not those of my institution.
+Having taught and helped at a series of workshop over the past few months Tom Kelly, PhD Candidate in Genetics at the [University of Otago](http://www.otago.ac.nz/), wrote up some of his reflections on the issues related to workshop attendance. This spurred further discussion via email among the New Zealand instructors. We decided to put these thoughts together in hope that this could help other sites struggling with the attendance problems.  
 
-The following is based on my experiences at:
+Please note that these are the authors' views and thus they should not be treated as representative for their home institutions.
 
-Research bazaar 2015 [University of Melboure](http://unimelb.edu.au)
+Tom based his opinions after having  taught at the following workshops: <br/>
+* Research Bazaar 2015 at the [University of Melboure](http://unimelb.edu.au);
+* Software Carpentry organised by the [University of Canterbury (UC)](http://www.canterbury.ac.nz/) and [NeSI](https://www.nesi.org.nz/), in February 2015;
+* Several Software Carpentry workshops organised by the [University of Otago](http://www.otago.ac.nz/) and [NeSI](https://www.nesi.org.nz/): in June 2015, ResBaz Dunedin in February 2016 and June 2016;
+* Data Carpentry in  February 2016 at the University of Otago.
 
-SWC Feb 2015 at [University of Canterbury (UC)](http://www.canterbury.ac.nz/)
-
-SWC Otago June 2015, ResBaz 2016 Dunedin, DC Otago Feb 2016, SWC Otago June 2016 at the [University of Otago (UO))](http://www.otago.ac.nz/)
-
-The events were supported by the New Zealand eScience Institute ([NeSI](https://www.nesi.org.nz/)).
 
 ###Main point
 
-Over the course of several workshops we've had minor problems with "no-shows" (people signing up and not attending) or "drop-offs" (people not returning for future days or sessions). This has lead to discussions about how we may address this to ensure that others who would have attended for the entire workshop do not miss out on places.
+Over the course of several workshops we've had relatively minor problems with "no-shows" (people signing up and not attending) or "drop-offs" (people not returning for future days or sessions). However, in the case of the overscubscribed workshops it was still somewhat frustrating. This has led to discussions about how we may address the issues related to the attendance to ensure that others who would have attended for the entire workshop, but ended up on the waiting list, do not miss out on places.
 
-###Motivation
 
-At our most recent workshop in [Dunedin](https://mikblack.github.io/2016-06-29-Otago/) we had 21/25 attendees who signed up attending. At previous workshops this had also been a minor issue, being as high as 25% in Christchurch (Feb 2015), this contrasted starkly with the overbooked "Research Bazaar" event in Melbourne following our training. However, Bill Mills (visiting from Canada) was not concerned: they usually have 25-30% no show in US/Canada so our attendance figures are pretty good compared to other free Software Carpentry events. 
+###Issue 1: No-shows
 
-###Registration Fee
+At our most recent workshop in the [University of Otago](https://mikblack.github.io/2016-06-29-Otago/) we had 21/25 attendees who signed up attending. At previous workshops this had also been a bit of an issue, being as high as 25% of no-shows in Christchurch in February 2015. I know that this issue is not specific to these sites or to New Zealand itself. Shortly after I got involved in SOftware Carpentry, I had a chance to  talk to Bill Mills who was visiting from Canada to help boot-up the workshops and train some instructors. Bill did say that they usually have 25-30% no show in US/Canada so our attendance figures are not too bad compared to other free Software Carpentry events.
 
-We discussed no shows with Bill Mills when we were doing ResBaz/SWC in Melbourne and Christchurch. It wasn't a huge issue but he suggested a small fee to make sure those who register actually attend or cancel, noting "no show" numbers drop drastically when doing this. This was again raised by [NeSI](https://www.nesi.org.nz/) following the latest [Dunedin](https://mikblack.github.io/2016-06-29-Otago/) workshop where sign-ups were lower than what we usually experience.
+###Issue 2: Departures over time
 
-While we are still considering a small fee, there are complications with University regulations, particularly in attempting to run similar workshops across the country with [NeSI](https://www.nesi.org.nz/). Some universities charge venue fees unless the event is free, run at cost, or for the benefit of staff and students. Another issue with charged events (even with a small fee) is that it may create disparity between research groups where some are funded from the lab and others need to foot the bill themselves due to financial or adminstrative constraints. Previously administrating the system has been an extra hurdle for us organising as well but with the ticking system through Eventbrite this burden on organisers is reduced.
+A larger concern to me is the number of participants who attend for the beginning of a multi-day workshop and do not return for the final sessions. Some participants may be leaving midway because it just doesn't work for them (thankfully, this is rare). Some will be interested only in a particular session, such as biologists will attend only  R module, even if we are encouraging them to attend the full course.
 
-Culturally, New Zealand is rather different to other places where ticketed events have been tried. We don't have tipping cutlure, the Warehouse (our equivalent of WallMart or Kmart) has the slogan "Where Everyone Gets a Bargain", and the Pak 'N' Save supermarket is proudly has "NZ lowest prices". These stores are widely successful, we have little concern for appearing cheap, particularly among the university student population. Many people here view a bargain or freebie positively, so I don't think the event is under-valued being free. It would be interesting to see if any other NZ sites have tried a paid ticketed event to boost attendance rates and how this compares to other countries.
+ With others it may be difficult to address, particularly if they don't leave any feedback on reasons why they left. Though, we can assume that some participants may have to leave early due to other committments such as running lab experiments or childcare responsibilities. So at our [recent workshop at the University of Otago](http://software-carpentry.org/blog/2016/07/otago-workshop.html) we tried splitting it into 3 shorter days, rather than 2 full ones.
 
-###Departures over time
 
-A larger concern to me is the number of participants who attend for the beginning of a multi-day workshop and do not return for the final sessions (particularly if it's Git compared more well-known Python or R lanaguages). While participants can't ethically be forced to attend all sessions if it doesn't work for them (thankfully, this is rare), many leaving midway can be difficult to address, particularly if they don't leave feedback on why. One issue we anticipated was that some participants may have to leave early for experimental work or childcare responsibilities so we tried splitting to shorter days across in our last [3 day workshop](http://software-carpentry.org/blog/2016/07/otago-workshop.html). Another problem emerging is that some participants will be interested only in a particular session, such as biologists will just coming to R, even if we are encouraging them to attend the full course.
+###Approach 1: Registration Fee
 
-We note that we have done both ResBaz and Data Carpentry recently already and we pitched this last minute at largely the same community. Hopefully numbers pick up with a new influx of postgrad students next year and we could try wider promotion in advance now that most of our collaborators or department have had the opportunity to attend already (often getting early invites). A wider issue that we've been more concerned with is follow up: with such a large number of people having been through our workshops, another issue is providing community support and extension material (like Mozilla study group or research bazaar).
+We discussed further no-shows with Bill Mills when we were doing ResBaz/SWC in Melbourne and Christchurch. He mentioned a soultion suggested by Software Carpentry of appying a small registration fee to make sure those who register actually attend or cancel giving the organisers some notice. Based on the experiences of several hosts accross  this usually results in no-show numbers dropping to about 5%.
 
-We aren't too concerned about our lower sign-up numbers this time around, at least no one missed out with no shows, generally we manage to let our waiting list in with cancellations anyway. It would be interesting to know if particular people (groups, or institutions) are signing up and not coming recurrently but a blacklist (as some SWC sites have done) may be overreacting if no one missed out a space yet.
+Whilst this is certainly an option to consider, in many local context this would not be possible. There are complications with the university local regulations. Some universities charge venue fees unless the event is free, run at cost, or for the benefit of staff and students. Another problem with charged events (even with a small fee) is that it may create disparity between research groups where some are funded from the lab and others need to foot the bill themselves due to financial or adminstrative constraints. Eventbrite makes it easier for the hosts in terms of handling payments and registrations. But within the University system it would create issues for labs that want to pay (through Eventbrite) for their members to attend - not insurmountable, but just extra hassle.
 
-###Catering
+There are also some cultural aspects. For example, New Zealand is rather different to other places where ticketed events have been tried. We don't have tipping culture, one of the largest home-supplies supermarket chains has the slogan "Where Everyone Gets a Bargain", and another grocery supermarket chain proudly announces that it has "NZ lowest prices". These stores are widely successful. It can be said that we have little concern for appearing cheap, particularly among the university student population. Many people here view a bargain or freebie positively, so I don't think the event is under-valued being free. However, it would be interesting to see if any other NZ sites have tried a paid ticketed event to boost attendance rates and how this compares to other countries.
 
-Another suggestion to raise numbers is catering to boost numbers (possibly funded by registration fees), which we have tried at Dunedin Research Bazaar last February. However, had issues with overcatering for those did not stay for lunch and we still had dwindling numbers by the last day. I think our "come back for day 3" rate was be higher this time with combined Git+Bash sessions on days 1 and 3. I'm afraid that some participants do still come only intending to R or Python but most seem to give the rest a shot.
+###Approach 2: Catering
+
+Another suggestion to raise numbers is providing catering to boost numbers (possibly registration fees can be used for that, if ), which we have tried at Dunedin Research Bazaar last February. However, had issues with overcatering for those did not stay for lunch and we still had dwindling numbers by the last day. I think our "come back for day 3" rate was be higher this time with combined Git+Bash sessions on days 1 and 3. I'm afraid that some participants did  still come only intending to R or Python but most seem to give the rest a shot. And even the catering did not attract them enough.
+
+
+###Approach 3: Blacklist
+This appears to be a rather drastic solution and thus needs to be treated with care. Essentially, this means that the hosts check the actual attendance and thus can keep a record of people who habitually don't show up without giving notice. They are then only able to sign up if there are places left right before the event.
+
+At the moment, at the recent University of Otago workshops no one missed out due to no shows. Generally we manage to let our waiting list in with cancellations anyway. It would be interesting to know if particular people (groups, or institutions) are signing up and not coming recurrently but a blacklist (as some SWC sites have done) may be overreacting.
+
+###Approach 4: Overbooking
+This approach is notoriously used by some airlines. Many of you might have experienced frustrating time at the gate when it has turned out that you actually don't have a seat even though you do have the ticket. Then it gets to an exciting aucion when the airlline tries to bribe the passengers with the allocated seat to give it up (for cash) and take one of the subsequent flight (possibly next day). Neither Software nor Data Carpentry are aiming to go that way but it may be tempting for hosts to allow for a high number of sign ups (say 45) with an assumption that there will be 20-30% no-show rate.
+
+However, one problem that Wolfgang Hayek, NZ Instructor based at [NIWA](https://www.niwa.co.nz/) and NeSI, has seen, is that venues get very crowded if turnout is large, with attendees complaining accordingly in their feedback. Sticking to the recommended number of attendees is definitely a good idea. For example, in Wolfgang's experience, the Wellington Victoria University ResBaz was a very relaxed event, at least partly due to its lower attendance. The Git session that Wolfgang has taught there was a lot more interactive than sessions that he had taught at other events, which made it quite enjoyable for everyone (many questions were asked and issues discussed, attendees participated more in the hands-on sections). While it is clear that we want to maximise efficiency of these events, there is also a positive side of having lower attendance, too.
+
+###Approach 5: Establishing rapport with the participants
+Another alternative to the carrot and the stick is trying to establish close communication with the participants. Mik Black of the University of Otago said that him being a very hands-on person sent repeated emails to registrants to let them know there was a wait list, and asking them to tell the hosts if they couldn’t come. Mik did that for the sessions that were run at the ResBaz. the That was somewhat effective, but there were still had no-shows (plus drop-offs after the first day). It also worked at the time because Mik needed to email about other ResBaz details at the same time - he wasn’t just spamming them with “are you still coming?” every two days.
+
+Sung Bae of NeSI who has hosted and taught at a number of workshops across New Zealand developed a habit of going around the participants with the guest list and making them a name tag on spot (and checking the attendance at the same time). Sung found it was helpful to build up personal connection with them (that helped him to remember their names too) and he also produced attendance lists from events he led. It possibly could help mitigate the number of drop-offs on the subsequent days of teh workshop.
+
+
+We recognize that there is no silver bullet to help us sort out the attendance issues. However, there may be various ways these problems can be mitigated. The experiences from Software and Data Carpentry workshops can also possibly translate to other training that many members of this community run.
