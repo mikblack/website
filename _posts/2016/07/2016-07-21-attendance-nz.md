@@ -24,7 +24,7 @@ Over the course of several workshops we've had relatively minor problems with "n
 
 ###Issue 1: No-shows
 
-At our most recent workshop in the [University of Otago](https://mikblack.github.io/2016-06-29-Otago/) we had 21/25 attendees who signed up attending. At previous workshops this had also been a bit of an issue, being as high as 25% of no-shows in Christchurch in February 2015. I know that this issue is not specific to these sites or to New Zealand itself. Shortly after I got involved in SOftware Carpentry, I had a chance to  talk to Bill Mills who was visiting from Canada to help boot-up the workshops and train some instructors. Bill did say that they usually have 25-30% no show in US/Canada so our attendance figures are not too bad compared to other free Software Carpentry events.
+At our most recent workshop in the [University of Otago](https://mikblack.github.io/2016-06-29-Otago/) we had 21/25 attendees who signed up attending. At previous workshops this had also been a bit of an issue, being as high as 25% of no-shows in Christchurch in February 2015. I know that this issue is not specific to these sites or to New Zealand itself. Shortly after I got involved in Software Carpentry, I had a chance to  talk to Bill Mills who was visiting from Canada to help boot-up the workshops and train some instructors. Bill did say that they usually have 25-30% no show in US/Canada so our attendance figures are not too bad compared to other free Software Carpentry events.
 
 ###Issue 2: Departures over time
 
