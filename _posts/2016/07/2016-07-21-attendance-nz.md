@@ -11,11 +11,10 @@ Having taught and helped at a series of workshop over the past few months Tom Ke
 
 Please note that these are the authors' views and thus they should not be treated as representative for their home institutions.
 
-Tom based his opinions after having  taught at the following workshops: <br/>
-* Research Bazaar 2015 at the [University of Melboure](http://unimelb.edu.au);
-* Software Carpentry organised by the [University of Canterbury (UC)](http://www.canterbury.ac.nz/) and [NeSI](https://www.nesi.org.nz/), in February 2015;
-* Several Software Carpentry workshops organised by the [University of Otago](http://www.otago.ac.nz/) and [NeSI](https://www.nesi.org.nz/): in June 2015, ResBaz Dunedin in February 2016 and June 2016;
-* Data Carpentry in  February 2016 at the University of Otago.
+Tom based his opinions after having  taught at various workshops in Australia in New Zealand: <br/>
+* Research Bazaar 2015 at the [University of Melboure](http://unimelb.edu.au) and 2016 at the [University of Otago](http://www.otago.ac.nz/);
+* Several Software Carpentry workshops organised by the University of Otago, [University of Canterbury (UC)](http://www.canterbury.ac.nz/), and [NeSI](https://www.nesi.org.nz/), in February 2015, June 2015, and June 2016;
+* A Data Carpentry workshop run at the University of Otago in February 2016.
 
 
 ###Main point
