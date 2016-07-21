@@ -43,7 +43,7 @@ There are also some cultural aspects. For example, New Zealand is rather differe
 
 ###Approach 2: Catering
 
-Another suggestion to raise numbers is providing catering to boost numbers (possibly registration fees can be used for that, if ), which we have tried at Dunedin Research Bazaar last February. However, had issues with overcatering for those did not stay for lunch and we still had dwindling numbers by the last day. I think our "come back for day 3" rate was be higher this time with combined Git+Bash sessions on days 1 and 3. I'm afraid that some participants did  still come only intending to R or Python but most seem to give the rest a shot. And even the catering did not attract them enough.
+Another suggestion to raise numbers is providing catering to boost numbers (possibly registration fees can be used for that) which we have tried at Dunedin Research Bazaar last February. However, we had issues with overcatering for those did not stay for lunch and we still had dwindling numbers by the last day. I think our "come back for day 3" rate was be higher this time with combined Git+Bash sessions on days 1 and 3. I'm afraid that some participants did  still come only intending to R or Python but most seem to give the rest a shot. And even the catering did not attract them enough.
 
 
 ###Approach 3: Blacklist
